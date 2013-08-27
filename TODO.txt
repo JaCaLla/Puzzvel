@@ -1,0 +1,11 @@
+* Create a base Project with google analytics
+* Add ARC control
+* Add a background
+* Add tile map
+* Place the selector touching the screen
+* Place puzzle blocs on the screen
+* Move puzzle blocs
+* Destroy puzzle blocs when they join
+* Add sounds.
+* Create first level
+
